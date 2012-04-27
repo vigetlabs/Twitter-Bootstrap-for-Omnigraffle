@@ -9,6 +9,8 @@ INSTALLATION
 
 Install as few or as many items as you need. Drag or copy the following files to the appropriate destination folders. 
 
+*Note*: OSX Lion hides the user's Library folder by default. You can show it by opening Terminal.app and issuing the following command `chflags nohidden ~/Library/`. ([Source: OSX Daily](http://osxdaily.com/2011/07/22/access-user-library-folder-in-os-x-lion/))
+
 * *Stencils/Twitter-Bootstrap.gstencil*
   * _Description:_ Stencils grouped by type, along with one all-encompassing stencil.
   * _Destination:_ ~/Library/Application Support/Omnigraffle/Stencils
