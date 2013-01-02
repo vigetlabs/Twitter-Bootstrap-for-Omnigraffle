@@ -1,7 +1,7 @@
 TWITTER BOOTSTRAP FOR OMNIGRAFFLE
 ========================================
 
-This is a set of Omnigraffle stencils, colors and templates that mirror [Twitter Bootstrap](http://github.com/twitter/bootstrap) as closely as possible. 
+This is a set of Omnigraffle stencils, colors, and templates that mirror [Twitter Bootstrap](http://github.com/twitter/bootstrap) as closely as possible. 
 
 
 INSTALLATION
