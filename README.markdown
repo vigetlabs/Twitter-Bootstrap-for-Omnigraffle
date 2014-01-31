@@ -7,24 +7,35 @@ This is a set of Omnigraffle stencils, colors, and templates that mirror [Twitte
 INSTALLATION
 ------------
 
-Install as few or as many items as you need. Drag or copy the following files to the appropriate destination folders. 
-
-*Note*: OSX Lion hides the user's Library folder by default. You can show it by opening Terminal.app and issuing the following command `chflags nohidden ~/Library/`. ([Source: OSX Daily](http://osxdaily.com/2011/07/22/access-user-library-folder-in-os-x-lion/))
+Install as few or as many items as you need. 
 
 * *Stencils/Twitter-Bootstrap.gstencil*
-  * _Description:_ Stencils grouped by type, along with one all-encompassing stencil.
-  * _Destination:_ ~/Library/Application Support/Omnigraffle/Stencils
+  * Stencils grouped by type, along with one all-encompassing stencil.
 * *Templates/Twitter-Bootstrap-grid.graffle*
-  * _Description:_ Starter template with grid system and guides.
-  * _Destination:_ ~/Library/Application Support/Omnigraffle/Templates
+  * Starter template with grid system and guides.
 * *Colors/Twitter-Bootstrap.clr*
-  * _Description:_ Swatches for your color picker.
-  * _Destination:_ ~/Library/Colors
+  * Swatches for your color picker.
+
+### Install the stencils and templates (OmniGraffle 6)
+
+* Double-click the stencil or template to open it in OmniGraffle
+* Click the **Move** button to install it locally
+
+### Install the stencils and template (OmniGraffle 5)
+
+* Drag or copy the stencil file to `~/Library/Application Support/Omnigraffle/Stencils`
+* Drag or copy the template file to `~/Library/Application Support/Omnigraffle/Templates`
+
+### Install the color swatches
+
+* Drag or copy the colors file to `~/Library/Colors`
+
+**Note:** Recent versions of OSX hide the user's Library folder by default. You can access it in Finder by holding down **Option** while opening the **Go** menu then clicking on **Library**.
 
 
 CREDITS
 -------
 
-Crafted by [Elliott](http://twitter.com/elliottmunoz) and [Todd](http://twitter.com/toddmoy) at [Viget Labs](http://viget.com).
+Crafted by [Elliott](http://twitter.com/elliottmunoz) and [Todd](http://twitter.com/toddmoy) and [Lance](http://twitter.com/gutini) at [Viget Labs](http://viget.com).
 
-Special thanks to the Twitter Bootstrap crew : [@fat](http://twitter.com/fat) and [@mdo](http://twitter.com/mdo). Those kids are alright.
+Special thanks to the [Twitter Bootstrap crew](https://github.com/orgs/twbs/members) and [contributors](https://github.com/twbs/bootstrap/graphs/contributors). Those kids are alright.
