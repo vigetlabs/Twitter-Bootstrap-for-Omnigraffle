@@ -36,6 +36,6 @@ Install as few or as many items as you need.
 CREDITS
 -------
 
-Crafted by [Elliott](http://twitter.com/elliottmunoz) and [Todd](http://twitter.com/toddmoy) and [Lance](http://twitter.com/gutini) at [Viget Labs](http://viget.com).
+Crafted by [Elliott](http://twitter.com/elliottmunoz), [Todd](http://twitter.com/toddmoy), and [Lance](http://twitter.com/gutini) at [Viget](http://viget.com).
 
 Special thanks to the [Twitter Bootstrap crew](https://github.com/orgs/twbs/members) and [contributors](https://github.com/twbs/bootstrap/graphs/contributors). Those kids are alright.
