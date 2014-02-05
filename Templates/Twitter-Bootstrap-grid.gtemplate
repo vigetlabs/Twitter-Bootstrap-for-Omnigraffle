@@ -16,7 +16,7 @@
 	<key>GraphDocumentVersion</key>
 	<integer>11</integer>
 	<key>GuidesLocked</key>
-	<string>NO</string>
+	<string>YES</string>
 	<key>GuidesVisible</key>
 	<string>YES</string>
 	<key>ImageCounter</key>
@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-02-05 18:44:15 +0000</string>
+	<string>2014-02-05 21:07:55 +0000</string>
 	<key>Modifier</key>
 	<string>Todd Moy</string>
 	<key>NotesVisible</key>
@@ -742,7 +742,7 @@
 		<key>BottomSlabHeight</key>
 		<real>195</real>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>0</integer>
 		<key>Expanded_Canvases</key>
 		<array/>
 		<key>Frame</key>
@@ -756,7 +756,7 @@
 		<key>SidebarWidth</key>
 		<integer>230</integer>
 		<key>VisibleRegion</key>
-		<string>{{-321, 0}, {963, 1272}}</string>
+		<string>{{0, 0}, {963, 1257}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
