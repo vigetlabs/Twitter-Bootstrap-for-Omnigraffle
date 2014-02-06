@@ -23,8 +23,8 @@ Install as few or as many items as you need.
 
 ### Install the stencils and template (OmniGraffle 5)
 
-* Drag or copy the stencil file to `~/Library/Application Support/Omnigraffle/Stencils`
-* Drag or copy the template file to `~/Library/Application Support/Omnigraffle/Templates`
+* Drag or copy the stencil file to `~/Library/Application Support/OmniGraffle/Stencils`
+* Drag or copy the template file to `~/Library/Application Support/OmniGraffle/Templates`
 
 ### Install the color swatches
 
