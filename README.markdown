@@ -11,8 +11,10 @@ Install as few or as many items as you need.
 
 * *Stencils/Twitter-Bootstrap.gstencil*
   * Stencils grouped by type, along with one all-encompassing stencil.
-* *Templates/Twitter-Bootstrap-grid.graffle*
+* *Templates/Twitter-Bootstrap.gtemplate* and *Templates/Twitter-Bootstrap-classic.gtemplate*
   * Starter template with grid system and guides.
+  * The first one uses guides  most faithful to Bootstrap, even though they are often placed at decimal points.
+  * The *-classic* version is retained from the previous release. It's less faithful to the current grid system, but more usable for people who rely on Omnigraffle's pixel grid.
 * *Colors/Twitter-Bootstrap.clr*
   * Swatches for your color picker.
 
