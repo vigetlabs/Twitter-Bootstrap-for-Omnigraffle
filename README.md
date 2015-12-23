@@ -43,3 +43,11 @@ CREDITS
 Crafted by [Elliott](http://twitter.com/elliottmunoz), [Todd](http://twitter.com/toddmoy), and [Lance](http://twitter.com/gutini) at [Viget](http://viget.com).
 
 Special thanks to the [Twitter Bootstrap crew](https://github.com/orgs/twbs/members) and [contributors](https://github.com/twbs/bootstrap/graphs/contributors). Those kids are alright.
+
+***
+
+<a href="http://code.viget.com">
+  <img src="http://code.viget.com/github-banner.png" alt="Code At Viget">
+</a>
+
+Visit [code.viget.com](http://code.viget.com) to see more projects from [Viget.](https://viget.com)
