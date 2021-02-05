@@ -1,8 +1,9 @@
 TWITTER BOOTSTRAP FOR OMNIGRAFFLE
 ========================================
 
-This is a set of Omnigraffle stencils, colors, and templates that mirror [Twitter Bootstrap](http://github.com/twitter/bootstrap) as closely as possible. 
+**Note:** These tools were created for Omnigraffle 6 and 7. While they will likely work with Omnigraffle 7, they haven't been tested in that version of the app.
 
+This is a set of Omnigraffle stencils, colors, and templates that mirror [Twitter Bootstrap](http://github.com/twitter/bootstrap) as closely as possible. 
 
 INSTALLATION
 ------------
@@ -18,7 +19,7 @@ Install as few or as many items as you need.
 * *Colors/Twitter-Bootstrap.clr*
   * Swatches for your color picker.
 
-### Install the stencils and templates (OmniGraffle 6)
+### Install the stencils and templates (OmniGraffle 6 and Omnigraffle 7)
 
 * Double-click the stencil or template to open it in OmniGraffle
 * Click the **Move** button to install it locally
